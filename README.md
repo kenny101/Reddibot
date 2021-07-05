@@ -1,5 +1,5 @@
 # Reddibot
-A proper README will be added soon...
+Fetch and subcribe to receive images from your favorite subreddits!
 
 ## Webpages here: 
 https://www.reddibot.me/
