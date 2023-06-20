@@ -1,7 +1,5 @@
 # Reddibot
-Fetch and subcribe to receive images from your favorite subreddits!
+Fetch and subcribe to receive images from your favorite subreddits! (DEPRECATED Project) Feel free to pick up on it or reach out 😄
 
-## Webpages here: 
-https://kenny101.github.io/Reddibot/
-
-https://top.gg/bot/809958396585312266
+[## Project Webpage](https://kenny101.github.io/Reddibot/)
+## [Vote on top.gg](https://top.gg/bot/809958396585312266)
